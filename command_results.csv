@@ -1,0 +1,20 @@
+Command,Count
+"echo -e ""\x6F\x6B""",17559
+sh,2654
+shell,2654
+enable,2652
+system,2652
+rm .s; exit,2564
+dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s,2564
+uname -a,185
+uname -s -v -n -r -m,121
+echo xsec,84
+/bin/busybox FKEQZ,62
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox FKEQZ,62
+tftp; wget; /bin/busybox FKEQZ,62
+cat /proc/mounts; /bin/busybox FKEQZ,62
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox YCWGA,43
+cat /proc/mounts; /bin/busybox YCWGA,43
+tftp; wget; /bin/busybox YCWGA,43
+/bin/busybox YCWGA,43
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox HVEXS,38
